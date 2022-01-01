@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 def solution(num):
     answer = ''
     if (num%2 == 0):
