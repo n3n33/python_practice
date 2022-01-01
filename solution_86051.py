@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 def solution(numbers):
     answer = -1
     
