@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 def solution(phone_number):
     answer = ''    
     for j in range(0,len(phone_number)-4):   
