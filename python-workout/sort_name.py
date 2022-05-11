@@ -5,7 +5,7 @@ PEOPLE = [{
     'email' : 'reuven@lerner.co.il'
     },{
     'first' : 'Donald', 'last': 'Trump',
-    'email' : 'president@whitehoust.cgov'
+    'email' : 'president@whitehoust.gov'
     },{
     'first' : 'Vladimir', 'last': 'Putin',
     'email' : 'president@kremvax.ru'
