@@ -1,7 +1,7 @@
 import sys
 
 #n, m = 4, 3
-n,m = map(int, sys.stdin.readlines().split(' '))
+n,m = map(int, sys.stdin.readline().split(' '))
 
 selected = [ 0 for _ in range(m) ] # 0이 저장된 배열
 used = [ 0 for _ in range(n+1) ] #0이 저장된 배열
