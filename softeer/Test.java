@@ -1,4 +1,4 @@
-package double_test;
+package softeer;
 import java.util.*;
 import java.io.*;
 
