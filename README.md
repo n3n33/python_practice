@@ -1,2 +1,1 @@
-# python_practice
-
+:blue_heart:
